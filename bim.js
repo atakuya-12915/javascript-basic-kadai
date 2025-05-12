@@ -4,4 +4,4 @@ let weight = 68;
 // 身長
 let tall = 1.7;
 
-console.log((wight / tall) * tall);
+console.log((weight / tall) * tall);
